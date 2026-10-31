@@ -1,5 +1,5 @@
 # Neuroscience meets ML
-Building models to encode human brain.
+Building models to encode human brain. [📚 read the manuscript!](https://github.com/bragg13/sae-fmri-extractor/blob/dev/NeuroscienceMeetsML.pdf)
 
 ![](https://github.com/bragg13/autoencoded-fmri-nsd/blob/main/img10_15_subj3.png)
 
